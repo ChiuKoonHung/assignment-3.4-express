@@ -16,6 +16,8 @@ Additional Code Challenge:
 1. Since there are two entities, use [express.Router](https://expressjs.com/en/guide/routing.html) to group `garage` and `vehicle` into two different routing path. 
 2. Write the routing code for `vehicle` in `./routes/vehicle.js` and `garage` in `./routes/garage.js`.
 
+No code base is provided for this assignment.
+
 ## Submission Guidelines
 
 - Cite any relevant sources consulted during your research
